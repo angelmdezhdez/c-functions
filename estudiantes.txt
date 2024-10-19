@@ -1,0 +1,5 @@
+Angel A 23 A Matutino
+Diana A+ 17 B Vespertino
+Tomas B+ 40 C Matutino
+Esmeralda A+ 49 A Vespertino
+Raul A 30 D Matutino
